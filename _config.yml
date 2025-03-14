@@ -65,8 +65,8 @@ nav:
 
 #Author config
 author:
-    name: liu-g-leoo
-    email: liu-g-leo@outlook.com
+    name:liu-g-leoo
+    email:liu-g-leo@outlook.com
     imageLink: https://avatars.githubusercontent.com/minixalpha
     simpleIntro: 我是 leoo
     detailIntro:
@@ -115,7 +115,7 @@ disqus:
 
 #################################### global configure #######################################
 
-username: liu-g-leoo
+username:liu-g-leoo
 baseurl: /StrayBirds
 markdown: redcarpet
 safe: false
